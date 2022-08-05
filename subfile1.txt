@@ -1,0 +1,1 @@
+Copying branch from master to MyNewBranch
